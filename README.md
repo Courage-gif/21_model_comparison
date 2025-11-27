@@ -85,12 +85,10 @@ The project tested 20 different neural network architectures:
 - Room density metrics
 - Location encoding
 
-## 🚀 Installation
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/zimbabwe-property-predictor.git
-cd zimbabwe-property-predictor
-
-# Install dependencies
-pip install -r requirements.txt
+tensorflow>=2.8.0
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+opencv-python>=4.5.0
